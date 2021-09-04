@@ -80,7 +80,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: background_sunset.jpg
+      - image: backround_sunset.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/aliquam
