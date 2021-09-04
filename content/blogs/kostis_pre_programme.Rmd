@@ -11,7 +11,7 @@ draft: false
 image: forex_prices.jpg
 keywords: ""
 slug: aliquam
-title: Aliquam
+title: About me, or pre-programme
 ---
 
 
